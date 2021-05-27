@@ -14,9 +14,9 @@
 *"Programming"
 *"Piano"
 
-*6. "Dislike" : 
-  *"Jammin"
-  *"Error"
+-6. "Dislike" : 
+  -"Jammin"
+  -"Error"
 
 7. "Programming Language" :
 *"JavaScript" : "코딩을 시작하게 된 계기, Rhino와 웹과 Node를 해봄 (제일 잘함(?))",
