@@ -1,21 +1,21 @@
 ### "Hello" : 
 ##### "World!"
-###
+### \n
 ### "Name" : 
 ##### "anon_"
-###
+### \n
 ### "Age" : 
 ##### "17"
-###
+### \n
 ### "Gender" : 
 ##### "Man"
-###
+### \n
 ### "Favoite" : 
 ##### ["Programming", "Piano"]
-###
+### \n
 ### "Dislike" : 
 ##### ["Jammin", "Error"]
-###
+### \n
 ### "Programming Language" :
 ##### "JavaScript" : "코딩을 시작하게 된 계기, Rhino와 웹과 Node를 해봄 (제일 잘함(?))",
 ##### "Python" : "CodeUp으로 시작, 디코봇 제작 중 (지금 입문)",
