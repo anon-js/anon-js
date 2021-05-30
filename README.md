@@ -1,5 +1,5 @@
 > "Hello" : 
-  *"World!"
+  * "World!"
 
 > "Name" : 
 *"anon_"
