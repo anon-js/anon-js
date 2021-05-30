@@ -1,18 +1,18 @@
 1. "Hello" : 
-  * "World!"
+    * "World!"
 
 2. "Name" : 
-  * "anon_"
+    * "anon_"
 
 3. "Age" : 
-  * "17"
+    * "17"
 
 4. "Gender" : 
-  * "Man"
+    * "Man"
 
 5. "Favoite" : 
-    *"Programming"
-    *"Piano"
+    * "Programming"
+    * "Piano"
 
 6. "Dislike" : 
     * "Jammin"
