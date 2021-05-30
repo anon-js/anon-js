@@ -1,14 +1,14 @@
-> "Hello" : 
-  * "World!"
+1. "Hello" : 
+ * "World!"
 
-> "Name" : 
-*"anon_"
+2. "Name" : 
+ * "anon_"
 
-> "Age" : 
-*"17"
+3. "Age" : 
+ * "17"
 
 4. "Gender" : 
-*"Man"
+ * "Man"
 
 5. "Favoite" : 
 *"Programming"
