@@ -17,7 +17,7 @@
 <a><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=FFF"/></a>
 ### 내가 만든 것 | Made by anon
  * 🔗My Site: <https://anon.msub.kr>
- * KakaoTalk Bot
+ * [Nano] KakaoTalk Bot (준비 중...)
 ### 도움이 필요해? | Do you need help?
 <a href="https://open.kakao.com/me/anon_js"><img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=000"/></a>
 > *\*프로필을 열려면 클릭해 | \*Click to open profile*
