@@ -11,9 +11,9 @@
 <a><img src="https://img.shields.io/badge/JSON-000?style=flat-square&logo=JSON&logoColor=FFF"/></a>
 <a><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=FFF"/></a>
 <a><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=000"/></a>
+<a><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=FFF"/></a>
 <a><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=000"/></a>
 <a><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFF"/></a>
-<a><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=FFF"/></a>
 <a><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=FFF"/></a>
 ### Made by anon
  * 🔗My Site: <https://anon.msub.kr>
