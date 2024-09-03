@@ -1,9 +1,9 @@
 # Hello World! 👋
 <br>
 
-> 청소년 프로그래머 💻
+> 대학생 프로그래머 💻
 > --------
-> 토스를 가기 위한 노력들을 기록하는 곳입니다.
+> 제 노력들을 기록하는 곳입니다.
 ### 경험해본 언어
 <a><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=FFF"/></a>
 <a><img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=FFF"/></a>
