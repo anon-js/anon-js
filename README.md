@@ -14,5 +14,5 @@
 <a><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=000"/></a>
 <a><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFF"/></a>
 ### Made by anon
- * 🔗My Site: <https://anon.msub.kr>
- * [**App**] Study All in one (개발중...)
+ * 🔗My Site: <https://anon.mogo.kr>
+ * [**App**] [Yestudy](https://github.com/anon-js/yestudy) (개발중...)
